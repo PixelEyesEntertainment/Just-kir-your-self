@@ -394,6 +394,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: player_human (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8417361359673230750, guid: 46de55f3bb6f7ad49a182511b3795541, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8417361359673230750, guid: 46de55f3bb6f7ad49a182511b3795541, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8e3efc15e1d470a499397b5b9bc76487, type: 2}
+    - target: {fileID: 8417361359673230750, guid: 46de55f3bb6f7ad49a182511b3795541, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ca841e7d82f218d4184aa9c25c5a2e53, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
